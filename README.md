@@ -11,6 +11,7 @@ Analyze the heart disease dataset to explore machine learning algorithms and dev
 ⸻
 
 ⚙ Approach
+
 Developed a machine learning workflow to predict heart disease using patient data such as age, gender, cholesterol level, and other health metrics.
 
 Tools & Libraries
@@ -26,4 +27,5 @@ Key Steps
 ⸻
 
 🏆 Outcome
+
 Created a transparent and interpretable model capable of assisting healthcare professionals in the early detection of heart disease, enabling data-driven healthcare decisions and improving patient outcomes.
